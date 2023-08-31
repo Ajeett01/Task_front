@@ -1,3 +1,8 @@
+// Train your subconcious mind , belief is a thought in your mind 
+
+// I will work hosnestly
+
+
 import React, { useEffect, useState } from 'react';
 import { Container, Grid } from '@mui/material';
 import LeftSection from './LeftSection';
