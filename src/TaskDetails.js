@@ -18,6 +18,9 @@ const TaskDetails = ({ task, setShowDetailsModal }) => {
 
   console.log(task);
 
+  //Comments Branch
+  // Testing Comments for git branching
+
   useEffect(() => {
     setNewTitle(task.title);
     setNewDesc(task.description);
