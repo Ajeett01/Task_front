@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 // RightSection to show, edit and delete tasks 
+=======
+// Amit Lodu 
+
+// Intern Nahi mil rahi bsdk kooo
+
+// Lekin DSA achha ha 
+>>>>>>> SecondFeautre
 
 import React, { useState } from 'react';
 import axios from 'axios';
