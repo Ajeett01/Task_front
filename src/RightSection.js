@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-// RightSection to show, edit and delete tasks 
-=======
-// Amit Lodu 
-
-// Intern Nahi mil rahi bsdk kooo
-
-// Lekin DSA achha ha 
->>>>>>> SecondFeautre
-
 import React, { useState } from 'react';
 import axios from 'axios';
 import {
@@ -27,6 +17,8 @@ import EditIcon from '@mui/icons-material/Edit';
 import SaveIcon from '@mui/icons-material/Save';
 import TaskDetails from './TaskDetails';
 import EditTaskModal from './EditTaskModal';
+
+
 
 const BACKEND_URL = process.env.REACT_APP_BACKEND_URL;
 
